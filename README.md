@@ -1,1 +1,1 @@
-# Elaborer-une-solution-d-intelligence-artificielle-gr-ce-au-Design-Thinking
+# Elaborer-une-solution-d-intelligence-artificielle-grace-au-Design-Thinking
